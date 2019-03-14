@@ -1,0 +1,49 @@
+.header{
+	
+	height: 50px;
+	margin: 0px;
+	padding: 0px;
+	background-color: #008B8B;
+
+}
+
+.lkl{
+	margin-top: 5px;
+	float: right;
+	color: #696969;
+
+}
+
+
+
+.colc{
+	color: white;
+}
+.imgs{
+
+margin-right: 340px;
+
+}
+
+@media  (max-width: 992px) {
+  .imgs{
+  	margin-right: 0px;
+  }
+  h4{
+  	text-align: center;
+  }
+}
+@media(max-width: 768px)
+{
+	.col-xs-12{
+		text-align: center;
+	}
+
+}
+td{
+	color: white;
+
+}
+th{
+	color: white;
+}
